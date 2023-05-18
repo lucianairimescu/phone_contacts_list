@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+
+#form-container {
+  margin-bottom: 20px;
+}
+
+#contacts-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#contacts-table th,
+#contacts-table td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+#contacts-table th {
+  background-color: #c97676;
+}
+
+#add-contact-btn {
+  margin-left: 10px;
+}
